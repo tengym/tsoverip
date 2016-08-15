@@ -1,0 +1,24 @@
+*tftp*
+*_Source_G3.*
+*.o
+*.a
+*.so
+*.so.*
+*.out
+*.po.out
+*.in.out
+tags
+*.IAB
+*.IAD
+*.IMB
+*.IMD
+*.PFI
+*.PO
+*.PR
+*.PRI
+*.PS
+*.WK3
+*.exe
+*.c~
+*.elf
+cscope.in.out cscope.out cscope.po.out
