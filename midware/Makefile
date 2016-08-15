@@ -49,6 +49,8 @@ CXX+= -D_GNU_SOURCE $(CFLAGS) $(CFG_CFLAGS)
 .PHONY: all clean
 
 all:$(LIBS).a
+	-@mkdir $(OBJECTS) -p
+	-@mkdir $(LIB_DIR) -p
 
 clean:
 	-@rm -f $(LIB_DIR)/$(LIBS).a
