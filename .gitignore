@@ -1,13 +1,6 @@
 *tftp*
 *_Source_G3.*
 *.o
-*.a
-*.so
-*.so.*
-*.out
-*.po.out
-*.in.out
-tags
 *.IAB
 *.IAD
 *.IMB
